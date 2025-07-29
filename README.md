@@ -10,7 +10,6 @@
 I’m a detail-oriented Business Analyst with a passion for solving real-world problems through data-driven decisions. I specialize in uncovering insights that drive strategic and operational outcomes.
 
 - 🔎 Experienced in **data analysis, dashboarding, reporting, UAT, agile and scrum methodologies**
-- 🧮 Strong in **SQL, Excel, Power BI, Tableau, Jira**
 - 📈 Skilled at translating complex data into clear business narratives
 - 🧠 Always eager to learn and explore new tools in the data ecosystem
 
