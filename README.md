@@ -32,13 +32,13 @@ I’m a detail-oriented Business Analyst with a passion for solving real-world p
 ---
 
 📜 Certifications:
-HackerRank certified SQL(Basic)
-5-star Gold Badge in SQL on HackerRank
-Power BI by Learn More Pro
-Business Analysis Foundations by LinkedIn Learning
-UI/UX Design by Great Learning 
-C by IIT Bombay 
-PHP and MySQL by IIT Bombay
+- HackerRank certified SQL(Basic)
+- 5-star Gold Badge in SQL on HackerRank
+- Power BI by Learn More Pro
+- Business Analysis Foundations by LinkedIn Learning
+- UI/UX Design by Great Learning 
+- C by IIT Bombay 
+- PHP and MySQL by IIT Bombay
 
 ---
 
